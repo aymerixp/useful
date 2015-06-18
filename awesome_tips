@@ -1,0 +1,2 @@
+// print un int max avec bc
+echo 'ibase=16;obase=A;7FFFFFFF' | bc
