@@ -1,3 +1,6 @@
+/*
+ * source : http://www.programmingsimplified.com/c/source-code/c-program-convert-decimal-to-binary
+ */
 char *decimal_to_binary(int n)
 {
 	int c, d, count;
